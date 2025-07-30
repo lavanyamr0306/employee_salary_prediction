@@ -1,4 +1,4 @@
-# employee_salary_prediction
+# Employee_Salary_Prediction
 employe_salary_prediction by comparing different machine leaning algorithms and finally developing a streamlit application for predicting a employee salary
 # Salary Prediction
 
@@ -47,8 +47,17 @@ Each model's performance was evaluated using several regression metrics, includi
 
 
 *A bar chart depicting the importance of different features in predicting salary.*
+## Model comparission
+1. The Random Forest model achieved the highest R-squared score and the lowest error metrics (MSE, MAE, RMSE), indicating superior predictive performance compared to the other models.
+2. The Decision Tree model also performed well but had higher errors than the Random Forest.
+3. The Linear Regression model, while simple, had the lowest R-squared score and the highest errors, suggesting limitations in capturing complex relationships.
 
-##Streamlit Application
+   
+   
+<img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/c2c229b5-1769-4926-b58f-8688b116addd" />
+
+
+## Streamlit Application
 <img width="903" height="824" alt="image" src="https://github.com/user-attachments/assets/be025836-0917-4dc0-9915-a4d90f12ff34" />
 
 
