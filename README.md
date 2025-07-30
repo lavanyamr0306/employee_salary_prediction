@@ -65,6 +65,8 @@ Each model's performance was evaluated using several regression metrics, includi
 
 <img width="925" height="835" alt="image" src="https://github.com/user-attachments/assets/2a4d24af-360c-403e-94a9-7f84dc2e0f22" />
 
+## Link for Streamlit Application
+https://1e0e6eb21311.ngrok-free.app/
 
 
 ## Results
